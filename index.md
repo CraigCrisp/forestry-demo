@@ -12,7 +12,7 @@ services:
   description: We are your Riverland Carpet Cleaning Professionals.
   icon: "/uploads/2018/08/03/IMG_20180717_101630119.jpg"
 sub_heading: Riverland Carpet and Solar Cleaning
-textline: "Craig's Cleaning Service \n\nRiverland Carpet and Solar Cleaning "
+textline: We are your local Riverland Carpet Cleaning Professionals .
 hero_button:
   text: Learn more
   href: "/about"
