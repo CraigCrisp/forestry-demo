@@ -8,19 +8,11 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- heading: 'Carpet Cleaning '
+  description: We are your Riverland Carpet Cleaning Professionals.
+  icon: "/uploads/2018/08/03/IMG_20180717_101630119.jpg"
 sub_heading: Riverland Carpet and Solar Cleaning
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: "Craig's Cleaning Service \n\nRiverland Carpet and Solar Cleaning "
 hero_button:
   text: Learn more
   href: "/about"
