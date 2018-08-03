@@ -15,7 +15,7 @@ sub_heading: Riverland Carpet and Solar Cleaning
 textline: We are your local Riverland Carpet Cleaning Professionals .
 hero_button:
   text: Learn more
-  href: "/about"
+  href: www.craigscleaningservice.com
 show_news: true
 show_staff: false
 menu:
