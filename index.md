@@ -8,6 +8,12 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: 'Tile and Grout Cleaning '
+  description: Tile and Grout Cleaning of your Floor can be a frustrating and time
+    consuming job. This is especially so when you try to clean them on your hands
+    and knees.Let us take on the hard work for you with our Yellow Beast. You will
+    be amazed at the results.
+  icon: "/uploads/2018/08/05/IMG_20170828_113236.jpg"
 - heading: 'Solar Panel Cleaning '
   description: 'Solar Panel Cleaning is important to keep your Solar Panels working
     at maximum efficiency.Do not think the rain will do the job for you. We can clean
