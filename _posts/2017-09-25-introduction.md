@@ -5,7 +5,7 @@ related_posts: []
 sub_heading: An introduction to Solar Panel Cleaning .
 tags: []
 layout: post
-banner_image: 'https://www.google.com.au/search?q=solar+panel+cleaning+loveday&rlz=1C9BKJA_enAU702AU702&hl=en-GB&prmd=sivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiUqcPOqtXcAhXEWLwKHfVvBMkQ_AUIEigC&biw=768&bih=909&dpr=2#imgrc=unK6ugyT_9HyiM:'
+banner_image: ''
 
 ---
 Welcome to Craig's Cleaning Service .
