@@ -2,7 +2,7 @@
 title: About
 date: 2018-08-05 04:00:00 +0000
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
+heading: About Craig's Cleaning Service .
 sub_heading: Your Riverland Solar Panel and Carpet Cleaners.
 layout: landing-page
 textline: A multidisciplinary centre of experts who are essential to patient-oriented
