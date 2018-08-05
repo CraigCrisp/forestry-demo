@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home.
 banner_image: "/uploads/2018/08/03/JPEG image-BC2D536D9DF5-1.jpeg"
 layout: landing-page
 heading: 'Craig''s Cleaning Service '
