@@ -21,4 +21,6 @@ Craig's Cleaning Service specializes in innovative Ways to get your home or busi
 
 We have been serving the Riverland area for 23 years with professional cleaning services .
 
-You will Love the results and yes we love what we do.![](/uploads/2018/08/05/IMG_2156.JPG)
+You will Love the results and yes we love what we do.
+
+![](/uploads/2018/08/05/IMG_2156.JPG)
