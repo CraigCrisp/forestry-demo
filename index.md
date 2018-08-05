@@ -9,7 +9,9 @@ partners:
 - "/uploads/2017/11/13/nysed.png"
 services:
 - heading: 'Solar Panel Cleaning '
-  description: ''
+  description: 'Solar Panel Cleaning is important to keep your Solar Panels working
+    at maximum efficiency.Do not think the rain will do the job for you. We can clean
+    them effectively with our pure water system and waterfed extension pole. '
   icon: "/uploads/2018/08/03/JPEG image-BC2D536D9DF5-1.jpeg"
 - heading: Window Cleaning
   description: Your Local Riverland Window Cleaners
