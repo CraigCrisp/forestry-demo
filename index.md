@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Window Cleaning
+  description: Your Local Riverland Window Cleaners
+  icon: "/uploads/2018/08/05/D61F3869-C0B6-437B-8736-C8F2FEC7AB10-COLLAGE.jpg"
 - heading: 'Carpet Cleaning '
   description: We are your Riverland Carpet Cleaning Professionals.
   icon: "/uploads/2018/08/03/IMG_20180717_101630119.jpg"
