@@ -29,11 +29,9 @@ sub_heading: Riverland Carpet and Solar Cleaning.
 textline: |-
   We are your local Riverland Carpet and  Solar Cleaning Professionals .
 
-  Watch the videos below on Our YouTube Channel of what we can achieve for you .
+  Watch the videos below on Our YouTube Channel of what we can achieve for you.
 
-  [https://youtu.be/hPnA_W7lO5o](https://youtu.be/hPnA_W7lO5o "https://youtu.be/hPnA_W7lO5o")
-
-  [https://youtu.be/J8vaLkhvFfA](https://youtu.be/J8vaLkhvFfA "https://youtu.be/J8vaLkhvFfA")
+  [https://youtu.be/J8vaLkhvFfA](https://youtu.be/J8vaLkhvFfA "Solar Panel Cleaning In Berri S.A")
 hero_button:
   text: Learn more
   href: www.craigscleaningservice.com
