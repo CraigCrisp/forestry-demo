@@ -11,7 +11,7 @@ How can you effectively clean your Solar Panels in the Riverland in South Austra
 
 You may feel that cleaning your Solar Panels is not important or that they are self Cleaning.
 
-This is not true. 
+This is not true.
 
 You need to keep Your Solar Panels free of dust, pollen, bird poo and spray drift for them to work efficiently.
 
@@ -19,7 +19,7 @@ This in turn will help you save on your Power Bills because they are cleaned reg
 
 Watch the videos below of how Craig's Cleaning Service can clean them for you using only purified water and a waterfed extension pole.
 
-In some cases we can clean them from the ground .
+In some cases we can clean them from the ground ..
 
 [https://youtu.be/J8vaLkhvFfA](https://youtu.be/J8vaLkhvFfA "https://youtu.be/J8vaLkhvFfA")
 
