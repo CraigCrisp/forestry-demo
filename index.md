@@ -32,7 +32,7 @@ textline: |-
   We are also Professional Window Cleaners and Tile and Grout Cleaners.
 hero_button:
   text: Learn more
-  href: 'www.craigscleaningservice.com '
+  href: https://www.craigscleaningservice.com
 show_news: true
 show_staff: false
 menu:
