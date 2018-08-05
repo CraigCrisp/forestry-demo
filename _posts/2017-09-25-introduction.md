@@ -17,3 +17,5 @@ Watch the videos below to see how we can do the job safely and efficiently fir y
 [https://youtu.be/J8vaLkhvFfA](https://youtu.be/J8vaLkhvFfA "https://youtu.be/J8vaLkhvFfA")
 
 [https://youtu.be/BdGJMTZpUq8](https://youtu.be/BdGJMTZpUq8 "https://youtu.be/BdGJMTZpUq8")
+
+![](/uploads/2018/08/03/JPEG image-BC2D536D9DF5-1.jpeg)
