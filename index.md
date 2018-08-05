@@ -10,7 +10,7 @@ partners:
 services:
 - heading: 'Solar Panel Cleaning '
   description: ''
-  icon: ''
+  icon: "/uploads/2018/08/03/JPEG image-BC2D536D9DF5-1.jpeg"
 - heading: Window Cleaning
   description: Your Local Riverland Window Cleaners
   icon: "/uploads/2018/08/05/D61F3869-C0B6-437B-8736-C8F2FEC7AB10-COLLAGE.jpg"
