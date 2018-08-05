@@ -1,5 +1,5 @@
 ---
-title: 'How to Clean Solar Panels In The Riverland . '
+title: How to Clean Solar Panels In The Riverland .
 layout: ''
 date: 2018-08-04 14:30:00 +0000
 sub_heading: 'Riverland Solar Cleaning '
