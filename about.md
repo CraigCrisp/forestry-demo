@@ -17,7 +17,7 @@ menu:
     weight: 2
 
 ---
-Craig's Cleaning Service specializes in innovative Ways to get your home or business looking more professional or homely.
+Craig's Cleaning Service specializes in innovative Ways to get your home or business clean and looking more professional or homely.
 
 We have been serving the Riverland area for 23 years with professional cleaning services .
 
