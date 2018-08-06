@@ -4,7 +4,7 @@ date: 2016-04-20 00:00:00 +0000
 categories:
 - Solar Panel Cleaner Riverland S.A, Solar Panel Cleaner Berri S.A, Solar Panel Cleaner
   Renmark S.A,
-description: 'The Purest Of Cleans In The Riverland '
+description: The Purest Of Cleans In The Riverland .
 banner_image: 'https://beatybow.files.wordpress.com/2018/04/img_2158.jpg?w=600&crop '
 sub_heading: A post-modern take on Solar Cleaning and saving on power bills.
 tags:
