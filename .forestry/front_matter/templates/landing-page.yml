@@ -7,23 +7,24 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: 'Craig''s Cleaning Service '
   config:
     required: true
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: 'Craig''s Cleaning Service '
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: 'Carpet Cleaning and Solar Panel Cleaning '
 - type: file
   name: banner_image
   label: Hero Image
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/uploads/2018/08/05/IMG_2156.JPG"
 - type: field_group
   name: hero_button
   label: Hero Button
