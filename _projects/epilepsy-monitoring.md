@@ -16,27 +16,18 @@ slug: Cleaning Your Solar Panels in Berri and Loxton is very important to keep t
 ---
 ## Overview
 
-Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
+We are able to clean your Solar Panels using the latest pure water cleaning technology.
 
-Epileptic episodes are very hard to predict, and virtually impossible to accurately record outside of a clinical environment. This project aims to provide a portable device that can be used to measure EEG (electroencephalography) outside of the clinical environment.
+We will not use any chemicals or detergents as we clean .
+
+We only use Pure Water.
 
 ## Design
-The portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording system and a portable terminal to be installed on any device running the Android operating system.
 
-The EEG is monitored and recorded using a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
+The Portable Pure Water Cleaning Filter we use will remove all impurities from the tap water leaving it completely Pure .
 
-## Practical Applications
-- Ambulatory Care
-- Automated response for solitary patients
-- Long-term data collection and analysis
+We clean your Solar Panels Using our waterfed extension pole and brush scrubbing them clean without damaging your Panels .
 
-## Team
+## Practical Applications 
 
-### Staff
-- [Kellie Brewer](/belkirk-jekyll-demo/about/kellie-brewer/)
-- [Mary Anne Macswain](/belkirk-jekyll-demo/about/mary-ann-macswain/)
-
-### Students
-- Andrew Convington
-- Mark Bradbury
-- Ashley O'Brien
+Great for cleaning your Rooftop Solar Panels Safely and Effectively.
