@@ -1,12 +1,17 @@
 ---
 title: 'Solar Panel Cleaning In Loxton '
 date: 2016-04-20 00:00:00 +0000
-categories: []
+categories:
+- Solar Panel Cleaner Riverland S.A, Solar Panel Cleaner Berri S.A, Solar Panel Cleaner
+  Renmark S.A,
 description: 'The Purest Of Cleans In The Riverland '
-banner_image: ''
+banner_image: https://goo.gl/images/rZaMFs
 sub_heading: A post-modern take on Solar Cleaning and saving on power bills.
-tags: []
-slug: ''
+tags:
+- Solar Panel Cleaning Near Loxton, Solar Panel Cleaning Near Berri ,
+- Solar Panel Cleaner Near Renmark
+slug: Cleaning Your Solar Panels in Berri and Loxton is very important to keep them
+  working at maximum output.
 
 ---
 ## Overview
