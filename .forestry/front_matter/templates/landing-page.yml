@@ -32,9 +32,11 @@ fields:
   - type: text
     name: text
     label: Text
+    default: 'Learn More '
   - type: text
     name: href
     label: Link
+    default: https://www.craigscleaningservice.com
 - type: textarea
   name: textline
   label: Description
