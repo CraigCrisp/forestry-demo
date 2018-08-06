@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2018-08-05 04:00:00 +0000
+date: 2018-08-05 14:30:00 +0000
 banner_image: https://beatybow.files.wordpress.com/2018/06/img_21561.jpg?crop
 heading: 'Craig and Beate Crisp '
 publish_date: 2017-12-01 04:00:00 +0000
