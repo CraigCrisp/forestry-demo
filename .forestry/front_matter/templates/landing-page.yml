@@ -73,6 +73,8 @@ fields:
 - type: image_gallery
   name: partners
   label: Partner Logos
+  default:
+  - "/uploads/2018/08/05/IMG_2156.JPG"
 - type: boolean
   name: show_staff
   label: Show Staff?
